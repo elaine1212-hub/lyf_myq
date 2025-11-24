@@ -1,5 +1,3 @@
 const photoUrls = [
-'https://...',
-'https://...',
-'...'
+'https://www.pexels.com/zh-cn/'
 ]
